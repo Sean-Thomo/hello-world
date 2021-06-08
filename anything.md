@@ -1,1 +1,1 @@
-getting familiar with md files
+Getting familiar with `.md` files
